@@ -13,8 +13,8 @@
 - [`Data Recorder`](examples/DataRecorderExample.java): how to use the built-in data logger for high-frequency data analysis
 - [`Force Contact`](examples/ForceContactRetractExample.java): how to detect and react to force contact events
 - [`Impedance Control`](examples/ImpedanceExample.java): how to set up impedance control
-- [`Impedance Control`](examples/RedundancyImpedanceExample.java): how to set up null-space (e.g., redundancy) impedance control
-- [`Impedance Control`](examples/RotationalImpedanceExample.java): how to set up rotational impedance control
+- [`Redundancy Impedance Control`](examples/RedundancyImpedanceExample.java): how to set up null-space (e.g., redundancy) impedance control
+- [`Rotational Impedance Control`](examples/RotationalImpedanceExample.java): how to set up rotational impedance control
 
 ### Utilities
 
