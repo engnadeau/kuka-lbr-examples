@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 <a href="https://github.com/nnadeau/kuka-lbr-examples">
-<img src="https://raw.githubusercontent.com/nnadeau/kuka-lbr-examples/master/media/kuka-lbr.jpg" alt="Logo" width="80" height="80">
+<img src="https://raw.githubusercontent.com/nnadeau/kuka-lbr-examples/master/media/kuka-lbr.jpg" alt="Logo" width="400">
 </a>
 
 <h3 align="center">KUKA LBR iiwa Examples</h3>
