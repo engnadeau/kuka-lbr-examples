@@ -12,8 +12,6 @@ Application and programming examples for the KUKA LBR iiwa robot platform
 </p>
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/96cf62a7-5c7d-4610-b84f-de0afc34773c/deploy-status)](https://app.netlify.com/sites/competent-panini-00973b/deploys)
-
 [![Release](https://github.com/nnadeau/kuka-lbr-examples/workflows/Release/badge.svg)](https://github.com/nnadeau/kuka-lbr-examples/actions)
 
 [![GitHub issues](https://img.shields.io/github/issues/nnadeau/kuka-lbr-examples)](https://github.com/nnadeau/kuka-lbr-examples/issues)
